@@ -24,3 +24,4 @@ sudo apt update && sudo apt install sysstat -y
 
 # CentOS/RedHat
 sudo yum install sysstat -y
+[project-url](https://github.com/sonali-rajput/Server-Stats-Script)
