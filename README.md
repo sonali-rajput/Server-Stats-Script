@@ -8,6 +8,9 @@ The `server-stats.sh` script is a simple utility to analyze basic server perform
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
 
+## **GitHub Repository**
+The script is available on GitHub. You can find the source code and updates here:  
+[Server Stats Script - GitHub Repository](https://github.com/sonali-rajput/Server-Stats-Script)
 ## **Prerequisites**
 To run this script, you need:
 1. A Linux environment or WSL (Windows Subsystem for Linux) installed on your system.
@@ -24,4 +27,4 @@ sudo apt update && sudo apt install sysstat -y
 
 # CentOS/RedHat
 sudo yum install sysstat -y
-[project-url](https://github.com/sonali-rajput/Server-Stats-Script)
+
